@@ -3,5 +3,8 @@
 # instrustions
 # potato
 # spring onions
-# put the peas in a pan
+# Instruction
+- boil some water
+- put the peas in a pan
+
 
