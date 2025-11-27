@@ -1,9 +1,8 @@
-# integrient
-- peans
-- instrustions
+# ingredients
 - potato
-- spring onions
-#instruction
+- onion
+# Instruction
+- boil some water
 - shell the peas
-- put the peas in a pan
+-  put the peas in a pan
 
