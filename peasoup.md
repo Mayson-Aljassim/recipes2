@@ -1,4 +1,4 @@
-# ingretients
+# ingredients
 - potato
 - onion
 # Instruction
