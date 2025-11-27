@@ -1,4 +1,4 @@
-# integrient
+# ingretients
 - potato
 - onion
 # Instruction
